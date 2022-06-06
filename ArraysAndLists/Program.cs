@@ -23,6 +23,8 @@ namespace ArraysAndLists
             * Then add those numbers to either the evens List
             * or the odds List
             */
+
+
             foreach (int num in myArray)
             {
                 if (num % 2 == 0)
@@ -39,6 +41,8 @@ namespace ArraysAndLists
                 * display each List of even and odd numbers
                 * Try to be creative in your display
             */
+
+
             var evenNums = "Even Numbers : ";
             foreach (var even in evens)
             {
