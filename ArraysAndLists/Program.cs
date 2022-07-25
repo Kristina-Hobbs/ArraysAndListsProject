@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 namespace ArraysAndLists
+
 {
     class Program
     {
@@ -37,7 +40,7 @@ namespace ArraysAndLists
                 }
             }
 
-            /* Now using foeach or for loops,
+            /* Now using foreach or for loops,
                 * display each List of even and odd numbers
                 * Try to be creative in your display
             */
